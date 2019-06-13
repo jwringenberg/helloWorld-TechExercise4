@@ -4,6 +4,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @EnableAutoConfiguration
+//Hey Im add something
 public class Example {
 
  @RequestMapping("/")
